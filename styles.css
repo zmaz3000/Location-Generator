@@ -1,0 +1,33 @@
+body{
+    background-color: #698269;
+    text-align: center;
+}
+h1{
+    font-size: 5rem;
+    font-weight: bold;
+    color: #F1DBBF;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 5%;
+}
+
+h2{
+    color: white;
+    margin-top: 50px;
+    font-size: 3.5rem;
+}
+
+.family{
+    padding: 50px 500px 50px 500px;
+}
+
+.generatebutton{
+    background-color: #AA5656;
+    color: white;
+    
+}
+
+.reload{
+    background-color: #AA5656;
+    color: white;
+    margin: auto;
+}
