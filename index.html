@@ -14,16 +14,14 @@
 </head>
 <body>
     <h1>Where are we Moving to?</h1>
-    <div class="input-group input-group-lg family">
-        <span class="input-group-text" id="inputGroup-sizing-lg">Family Name: </span>
-    
-            <input type="text" class="form-control familyinput" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-lg">
-    
-        
+    <div class="form-floating mb-3 family-container">
+        <input type="text" class="form-control family" id="floatingInput" placeholder="family name">
+        <label for="floatingInput">Family Name</label>
       </div>
     <button class="btn btn-dark btn-lg generatebutton">Get Location!</button>
     <button class="btn btn-dark btn-lg reload">Try Again</button>
 
+    <div class="form-floating mb-3" id="myDiv"></div>
 
     <script src="index.js"></script>
 </body>

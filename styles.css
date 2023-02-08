@@ -24,8 +24,8 @@ h2{
     
 }
 
-.family{
-    padding: 50px 500px 50px 500px;
+.family-container{
+    margin: 0 25% 0 25%;
 }
 
 .generatebutton{
