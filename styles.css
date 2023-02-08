@@ -2,9 +2,10 @@ body{
     background-color: #698269;
     text-align: center;
     background-image: url('newyork.jpeg');
+    width: 100%;
 }
 h1{
-    font-size: 5rem;
+    font-size: 7vw;
     font-weight: bold;
     color:#a2e3e9;
     font-family: 'Merriweather', cursive;
@@ -15,7 +16,7 @@ h2{
     color: #fdfcee;
     margin-top: 50px;
     margin-left: 25%;
-    font-size: 3.5rem;
+    font-size: 3vw;
     font-family: 'Roboto', sans-serif;
     border: solid;
     border-radius: 25px;
