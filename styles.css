@@ -7,7 +7,7 @@ h1{
     font-size: 5rem;
     font-weight: bold;
     color:#a2e3e9;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Merriweather', cursive;
     margin-top: 5%;
 }
 
@@ -16,6 +16,7 @@ h2{
     margin-top: 50px;
     margin-left: 25%;
     font-size: 3.5rem;
+    font-family: 'Roboto', sans-serif;
     border: solid;
     border-radius: 25px;
     background-color: #62516e;
