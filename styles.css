@@ -1,6 +1,7 @@
 body{
     background-color: #698269;
     text-align: center;
+    background-image: url('newyork.jpeg');
 }
 h1{
     font-size: 5rem;
@@ -13,7 +14,14 @@ h1{
 h2{
     color: white;
     margin-top: 50px;
+    margin-left: 25%;
     font-size: 3.5rem;
+    border: solid;
+    border-radius: 25px;
+    background-color: #5e506e;
+    width: 50%;
+    padding: 25px 0 25px 0; 
+    
 }
 
 .family{
@@ -21,13 +29,13 @@ h2{
 }
 
 .generatebutton{
-    background-color: #AA5656;
-    color: white;
+    
+    background-color: #1c1a28;
     
 }
 
 .reload{
-    background-color: #AA5656;
-    color: white;
+    
     margin: auto;
+    background-color: #1c1a28;
 }
